@@ -16,6 +16,7 @@ public class MainActivity extends AppCompatActivity {
         Log.i("","ZhaoKai");
         Toast.makeText(MainActivity.this,"Optimus Primal",Toast.LENGTH_LONG).show();
         Log.i("----------","张洋");
+        System.out.println("jianjian123456789");
 
     }
 }
