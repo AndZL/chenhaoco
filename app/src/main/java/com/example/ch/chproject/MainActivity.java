@@ -11,6 +11,8 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+
+        String ch = "chenhao";
         Log.i("","guo");
         Log.i("","ZhaoKai");
         Toast.makeText(MainActivity.this,"Optimus Primal",Toast.LENGTH_LONG).show();
