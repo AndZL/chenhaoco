@@ -13,6 +13,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         String ch = "chenhao";
+        String ch1 = "jjj";
         Log.i("","guo");
         Log.i("","ZhaoKai");
         Toast.makeText(MainActivity.this,"Optimus Primal",Toast.LENGTH_LONG).show();
