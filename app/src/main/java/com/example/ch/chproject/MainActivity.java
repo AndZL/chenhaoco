@@ -13,5 +13,8 @@ public class MainActivity extends AppCompatActivity {
         String wxy = "王鑫雨 has been here";
         Log.i("","guo");
         Log.i("","ZhaoKai");
+        Toast.makeText(MainActivity.this,"Optimus Primal",Toast.LENGTH_LONG).show();
+        Log.i("----------","张洋");
+
     }
 }
